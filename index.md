@@ -1,37 +1,47 @@
-## Welcome to GitHub Pages
+# Space Invaders
 
-You can use the [editor on GitHub](https://github.com/smithjg-7/smithjg-7.github.io/edit/master/index.md) to maintain and preview the content for your website in Markdown files.
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+### Introduction
 
-### Markdown
+Space Invaders is an arcade game that was created in 1978. 
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+The aim of the game is to shoot the invaders with your laser base while avoiding their shots and preventing an invasion. 
 
-```markdown
-Syntax highlighted code block
 
-# Header 1
-## Header 2
-### Header 3
+### Installation
 
-- Bulleted
-- List
+Equipment needed:
 
-1. Numbered
-2. List
+- Windows
+- WinRAR
+- Java
 
-**Bold** and _Italic_ and `Code` text
+### Features
 
-[Link](url) and ![Image](src)
-```
+- Multiple rounds
+- Multiple opportunities to shoot invaders and move onto the next round
+- A variety of strategies to choose from
 
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
+### The Game
 
-### Jekyll Themes
+![Image of Space Invaders Java ](https://github.com/janbodnar/Java-Space-Invaders/raw/master/spaceinvaders.png)
 
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/smithjg-7/smithjg-7.github.io/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
+Invaders travel sideways and each time they touch the side, they will drop down a line.
 
-### Support or Contact
+There is no time limit, but if you do not shoot all of the invaders before they reach the bottom of the screen, the game will end.
 
-Having trouble with Pages? Check out our [documentation](https://help.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
+As the player shoots more invaders, the remaining invaders move faster.
+
+#### Troubleshooting
+
+In order to extract the file, you will need to have WinRAR.
+If the program fails, you probably need to update your Java installation.
+
+### Support
+
+If you need any additional support, contact smithjg7@appstate.edu.
+
+License
+----
+
+MIT

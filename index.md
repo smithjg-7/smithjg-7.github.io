@@ -34,10 +34,10 @@ Step 2: Extract zip folder if it is not already extracted.
             
 Step 3: Follow any directions that appear in the program.
 
-        This will allow you to start the game.
+            This will allow you to start the game.
             
             
-  ![Image of Space Invaders Java ](https://i.pinimg.com/originals/5d/33/c3/5d33c325eb2799aa827eda7ca6c5ea87.jpg)
+  ![Image of Space Invaders Java ](https://atummon.files.wordpress.com/2015/03/spi.png?w=700&h=525)
             
 Step 4: Move with Left/Right arrows and shoot with Space.
 

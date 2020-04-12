@@ -1,6 +1,7 @@
 # Space Invaders
 
 
+
 ### Introduction
 
 Space Invaders is an arcade game that was created in 1978. 

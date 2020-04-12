@@ -22,7 +22,7 @@ Equipment needed:
 - Multiple opportunities to shoot invaders and move onto the next round
 - A variety of strategies to choose from
 
-#### Instructions
+### Instructions
 
 Step 1: Double Click the button to download the game.
 

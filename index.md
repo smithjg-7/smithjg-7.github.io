@@ -55,7 +55,7 @@ There is no time limit, but if you do not shoot all of the invaders before they 
 
 As the player shoots more invaders, the remaining invaders move faster.
 
-#### Troubleshooting
+### Troubleshooting
 
 In order to extract the file, you will need to have WinRAR.
 
